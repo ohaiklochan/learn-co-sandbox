@@ -4,6 +4,8 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+This gem finds the stats within all of the top players in the video game Apex Legends. It is organized by sill level, current level, and kill/win ratio. Apex Legends is a first person video game that is considered 'battle royale' or an 'every man for himself' type of game, albeit you are in groups of three. This game is one of the biggest and most popular player-to-player games that is out on the market.
+
 ## Installation
 
 Add this line to your application's Gemfile:
