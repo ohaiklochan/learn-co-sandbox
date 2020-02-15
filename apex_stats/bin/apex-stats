@@ -1,0 +1,4 @@
+require './lib/apex_stats'
+
+
+ApexStats::CLI.new.call
