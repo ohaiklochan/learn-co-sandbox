@@ -1,6 +1,6 @@
 # ApexStats
 
-This gem finds the stats within all of the top players in the video game Apex Legends. It is organized by sill level, current level, and kill/win ratio. Apex Legends is a first person video game that is considered 'battle royale' or an 'every man for himself' type of game, albeit you are in groups of three. This game is one of the biggest and most popular player-to-player games that is out on the market.
+This gem finds the stats within all of the top characters or 'legends' in the video game Apex Legends. It is organized by usage, kills per match, and damage per match. Apex Legends is a first person video game that is considered 'battle royale' or an 'every man for himself' type of game, albeit you are in groups of three. This game is one of the biggest and most popular player-to-player games that is out on the market.
 
 ## Installation
 
