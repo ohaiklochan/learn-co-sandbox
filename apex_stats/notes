@@ -1,0 +1,9 @@
+1. build cli
+2. welcomes user, displays list of legends from apex legends,displays organization menu, display menu, exit
+3. if legend is selected
+    a. print name
+    b. print backstory
+    c. print abilities
+4. if winrate, popularity, or killdeath ratio is selected
+    a. prints corresponding list as such
+5. if exit is selected, program quits.

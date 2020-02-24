@@ -1,6 +1,6 @@
 # ApexStats
 
-This gem finds the stats within all of the top characters or 'legends' in the video game Apex Legends. It is organized by usage, kills per match, and damage per match. Apex Legends is a first person video game that is considered 'battle royale' or an 'every man for himself' type of game, albeit you are in groups of three. In Apex Legends, up to 20 three-man squads land on an island before searching for weapons and supplies to then attempt to defeat all other players in combat. Each player must also keep moving to avoid being caught outside the play area. The final team alive wins the round.  This game is one of the biggest and most popular player-to-player games that is out on the market.
+This gem finds the information of the 'legends' of the video game Apex Legends. Apex Legends is a free-to-play battle royale game developed by Respawn Entertainment and published by Electronic Arts. It was released for Windows, PlayStation 4 and Xbox One. In Apex Legends, up to 20 three-man squads land on an island before searching for weapons and supplies to then attempt to defeat all other players in combat. Each player must also keep moving to avoid being caught outside the play area. The final team alive wins the round.This game is one of the biggest and most popular player-to-player games that is out on the market. This gem will give you backstory for each character.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Option :1 gem install overwatch_stats require 'apex_stats' in irb type 'ApexStats::CLI.new.start'
+
+Option :2 Clone repository (https://github.com/ohaiklochan/apex_stats.git) & run bin/overwatch_stats
 
 ## Development
 
