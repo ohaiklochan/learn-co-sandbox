@@ -1,8 +1,0 @@
-#!/usr/bin/env ruby
-
-require "bundler/setup"
-require "apex_stats"
-
-ApexStats::CLI.new.call
-
-
